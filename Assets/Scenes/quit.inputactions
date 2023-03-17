@@ -1,0 +1,34 @@
+{
+    "name": "quit",
+    "maps": [
+        {
+            "name": "quit",
+            "id": "00061519-26e8-461a-8890-cd89368db9e8",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "69ed508a-91ed-4244-9890-c76f037b414d",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "741f2613-f3d7-4b57-8288-d0fbae689155",
+                    "path": "<Keyboard>/escape",
+                    "interactions": "Tap",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
